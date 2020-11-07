@@ -1,0 +1,55 @@
+body{
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#conteudo{
+    background-color: thistle;
+    margin: 20px;
+}
+
+#titulodapagina{
+    border-style: groove;
+    border-width: 3px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#menu{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    
+}
+
+#imgcentral{
+    justify-content: center;
+}
+
+#imgcentro{
+    width: 100%;
+}
+
+#subtitulo{
+    text-align: center;
+    background-color: yellow;
+}
+
+#destaques{
+    display: flex;
+    
+}
+
+.imgproduto{
+    width: 100%;
+}
+
+p{
+    text-align: center;
+}
+
+#rodape{
+    border-style: groove;
+    display: flex;
+    justify-content: space-around;
+}
